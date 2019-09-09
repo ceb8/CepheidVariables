@@ -27,5 +27,5 @@ This was performed using the software hotpants, I ran it from Python, but there 
 
 ## Two notebooks where I compare my results to literature results
 
-* [Comparing Cepheid detections and periods]()
-* [Comparing period-age relations]()
+* [Comparing Cepheid detections and periods](https://nbviewer.jupyter.org/github/ceb8/CepheidVariables/blob/master/notebooks/Comparison_Detections_Periods.ipynb)
+* [Comparing period-age relations](https://nbviewer.jupyter.org/github/ceb8/CepheidVariables/blob/master/notebooks/Comparision_PA_Relation.ipynb)
