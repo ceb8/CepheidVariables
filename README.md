@@ -15,14 +15,17 @@ access to external files. Notebooks that cannot be run using only the contents o
 2. Image subtraction  
 This was performed using the software hotpants, I ran it from Python, but there is no notebook.
   
-3. [Variable source detection]()
+3. [Variable source detection](https://nbviewer.jupyter.org/github/ceb8/CepheidVariables/blob/master/notebooks/Detecting_Variables.ipynb)
 
-4. [Light curve extraction]() (requires access to fits image files not in this repo)
+4. [Light curve extraction](https://nbviewer.jupyter.org/github/ceb8/CepheidVariables/blob/master/notebooks/Light_Curve_Extraction.ipynb) (requires access to fits image files not in this repo)
 
-5. [Period determination]()
+5. [Period determination](https://nbviewer.jupyter.org/github/ceb8/CepheidVariables/blob/master/notebooks/Period_Determination.ipynb)
 
 6. [Age determination](https://nbviewer.jupyter.org/github/ceb8/CepheidVariables/blob/master/notebooks/Age_determination.ipynb)
 
 7. [Period-age relation derivation](https://nbviewer.jupyter.org/github/ceb8/CepheidVariables/blob/master/notebooks/Period_Age_Relation.ipynb)
 
-## A few more notebooks where I compare my results to literature results
+## Two notebooks where I compare my results to literature results
+
+* [Comparing Cepheid detections and periods]()
+* [Comparing period-age relations]()
