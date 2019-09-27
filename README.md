@@ -1,6 +1,6 @@
 # Cepheid Variable Stars in Globular Cluster NGC 1866: Data Anlysis Notebooks
 
-This repository contains the associated data analysis code, data tables, and Jupyter notebooks associated 
+This repository contains data analysis code, data tables, and Jupyter notebooks associated 
 with my MSc dissertation on Cepheid variable stars for the Liverpool John Moores University MSc in Astrophysics.
 
 **Note:** This repository does not contain all of the data files I used, so not all of the notebooks can be run without 
